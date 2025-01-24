@@ -30,8 +30,8 @@ Você pode instalar as bibliotecas necessárias executando o seguinte comando:
 
 Crie um arquivo .env com suas chaves da API da Marvel:
 
-PUBLIC_KEY=your_public_key_here
-PRIVATE_KEY=your_private_key_here
+- PUBLIC_KEY=your_public_key_here
+- PRIVATE_KEY=your_private_key_here
 
 ## Como Executar 
 
@@ -39,10 +39,10 @@ PRIVATE_KEY=your_private_key_here
 
 - Estrutura de Arquivos:
 
-marvel_data_collector.py: Script principal.
-.env: Arquivo para armazenar suas chaves de API.
-marvel_data.db: Banco de dados SQLite.
-marvel_data_{type_name}.csv: Arquivos CSV com dados coletados.
+- marvel_data_collector.py: Script principal.
+- .env: Arquivo para armazenar suas chaves de API.
+- marvel_data.db: Banco de dados SQLite.
+- marvel_data_{type_name}.csv: Arquivos CSV com dados coletados.
 
 ## Contribuição 
 
