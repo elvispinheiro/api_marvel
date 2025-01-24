@@ -1,4 +1,4 @@
-# Marvel API Data Collector
+# Marvel API
 
 Este projeto tem como objetivo coletar dados da API pública da Marvel e armazená-los em um banco de dados SQLite e em arquivos CSV. Os dados coletados incluem personagens, quadrinhos, criadores, eventos e histórias da Marvel.
 
