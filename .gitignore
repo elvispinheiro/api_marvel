@@ -1,0 +1,14 @@
+# Ignorar o arquivo de chaves da API
+.env
+
+# Ignorar o banco de dados SQLite
+marvel_data.db
+
+# Ignorar arquivos CSV
+*.csv
+
+# Ignorar diretórios e arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
